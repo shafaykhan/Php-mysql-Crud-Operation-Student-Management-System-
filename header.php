@@ -26,7 +26,7 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-                          <li> <img src="./assets/images/ce.png" alt="CE" class="tlogo"> </li>
+                          <li> <img src="ce.png" alt="Students"> </li>
                         <li class="active"><a href="index.php">Home</a></li>
                     </ul>
 
